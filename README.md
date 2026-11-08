@@ -22,8 +22,8 @@ Press Run to launch the sketch.
 One running, click or drag inside the emotion map on the right-hand side to select how you are feeling. The aura on the left will gradually change to reflect your selection. 
 ## Screenshots 
 ### Interactive Emotion Map 
-! [Emotion map and aura] 
-! [Aura colour variations] 
+! [Emotion map and aura] (emotion-map.png) 
+! [Aura colour variations] (aura.png) 
 ## Further Learning Resources
 ### Processing and Python References
 [Processing.py Reference] (https://py.processing.org/reference/) - Reference for Processing functions, including shapes, colour, animation and interaction. 
